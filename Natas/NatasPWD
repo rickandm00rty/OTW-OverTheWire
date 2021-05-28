@@ -1,0 +1,26 @@
+Natas | Kyle Nelson May 28 2021 - Teaches the basics of serverside web-security.
+================================================================================
+Each level of natas consists of its own website located at http://natasX.natas.labs.overthewire.org, where X is the level number. There is no SSH login. To access a level, enter the username for that level (e.g. natas0 for level 0) and its password.
+
+Each level has access to the password of the next level. Your job is to somehow obtain that next password and level up. All passwords are also stored in /etc/natas_webpass/. E.g. the password for natas5 is stored in the file /etc/natas_webpass/natas5 and only readable by natas4 and natas5.
+
+Start here:
+
+Username: natas0
+Password: natas0
+URL:http://natas0.natas.labs.overthewire.org
+============================================
+The password for natas1 is gtVrDuiDfck831PqWsLEZy5gyDz1clto - Found in Inspector
+
+The password for natas2 is ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi - Found in Inspector
+
+The password for natas3 is sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14 - Found in /files/users.txt
+
+The password for natas4 is Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ - /robots.txt, then visit URL in robots.txt
+
+The password for natas5 is iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq - Needed to intercept URL Request using a proxy tool and manually tell server we are coming from "http://natas5.natas.labs.overthewire.org/" instead of ""
+
+
+
+
+

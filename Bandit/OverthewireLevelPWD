@@ -1,4 +1,8 @@
-OvertheWire Practice:
+OvertheWire Practice
+====================
+Connect to bandit.labs.overthewire.org:2220
+User:bandit0  PW:bandit0
+
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1 - Level 0
 
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 - Level 1
@@ -25,6 +29,7 @@ UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR - Level 9
 
 truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk - Level 10
 
-	Remember, this poroblem used "strings" which is useful for reading any data files (not .txt) for 
+	Remember, this problem used "strings" which is useful for reading any data files (not .txt) for 
 	human-readable characters
+
 
