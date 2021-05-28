@@ -1,0 +1,30 @@
+OvertheWire Practice:
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1 - Level 0
+
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 - Level 1
+
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK - Level 2
+
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB - Level 3
+
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh - Level 4
+
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7 - Level 5
+
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs - Level 6
+
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV - Level 7
+
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR - Level 8
+
+	This one was tricky. Essentially the key was learning the "sort -u" which makes sure the list is alphabetically
+	sorted and grouped, allowing the filter unique command to work. Then, with the shortened list we run "uniq -u" 
+	which checks each line by its previous line (limited to only the line before it) to pull out unique line
+
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR - Level 9
+
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk - Level 10
+
+	Remember, this poroblem used "strings" which is useful for reading any data files (not .txt) for 
+	human-readable characters
+
